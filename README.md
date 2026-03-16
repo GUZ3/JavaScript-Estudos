@@ -11,9 +11,9 @@ JavaScript é uma das principais linguagens utilizadas na web para criar interat
 ## 🗂 Estrutura do Projeto
 
 📁 JavaScript-Estudos
-<br>┣ 📁 exercicios → Exercícios de lógica e prática com JavaScript
-<br>┣ 📁 desafios → Pequenos desafios para treinar programação
-<br>┣ 📁 exemplos → Códigos de exemplo para aprendizado da linguagem
+<br>┣ 📁 javascript → Exercícios de lógica e prática com JavaScript
+<br>┣ 📁 .gitignore → Testando o git
+<br>┣ 📁 DesafioFinal-JavaScript → Desafio final apresentado em sala
 <br>┗ 📄 README.md → Documentação do repositório
 
 ---
